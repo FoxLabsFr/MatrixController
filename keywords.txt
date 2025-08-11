@@ -1,0 +1,29 @@
+# LEDMatrix Library Keywords
+# Syntax Coloring Map For LEDMatrix
+
+# Datatypes (KEYWORD1)
+MatrixController	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+init	KEYWORD2
+update	KEYWORD2
+setColor	KEYWORD2
+getColor	KEYWORD2
+setFace	KEYWORD2
+getFace	KEYWORD2
+getFaceList	KEYWORD2
+setBlendTime	KEYWORD2
+colorWipe	KEYWORD2
+displayImage	KEYWORD2
+blendImages	KEYWORD2
+
+# Constants (LITERAL1)
+SMILE_FACE	LITERAL1
+SAD_FACE	LITERAL1
+HEART	LITERAL1
+STAR	LITERAL1
+CROSS	LITERAL1
+ROUND	LITERAL1
+HEXAGONAL	LITERAL1
+TRIANGULAR	LITERAL1
+CUSTOM	LITERAL1 

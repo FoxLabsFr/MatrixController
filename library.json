@@ -1,0 +1,27 @@
+{
+  "name": "LEDMatrix",
+  "version": "1.0.0",
+  "description": "LED Matrix control library for 12x12 NeoPixel displays",
+  "keywords": "led, matrix, neopixel, display, rgb, animation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoxLabsFr/LEDMatrix.git"
+  },
+  "authors": [
+    {
+      "name": "dtanguy",
+      "email": "tanguy@foxlabs.fr",
+      "maintainer": true
+    }
+  ],
+  "license": "Custom",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "adafruit/Adafruit NeoPixel": "^1.11.0"
+  },
+  "build": {
+    "srcDir": "src",
+    "includeDir": "src"
+  }
+}
